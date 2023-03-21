@@ -1,4 +1,7 @@
 # Chat_Application
+• This application has basic functionalities like user registration, login, avatar selection, etc.  
+• Users can chat with other online users in a private chat window.  
+
 ## Steps to Start the App
 
 -Install the Public Dependencies  
